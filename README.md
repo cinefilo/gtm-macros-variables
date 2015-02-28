@@ -1,3 +1,3 @@
-# gtm-macros
-Google Tag Manager - Macros / Variables - Custom Javascript
+# Google Tag Manager - Macros / Variables - Custom Javascript
+
 
