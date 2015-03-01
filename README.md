@@ -1,7 +1,11 @@
-# Google Tag Manager - Macros / Variables 
-# Custom Javascript
+## Macros / Variables - Custom Javascript - GTM
 
-* {{element mailto}}
+Algunas macros/variables de tipo "javascript personalizado" para Google Tag Manager:
+
+* {{element mailto}} 
 * {{element phone}}
 * {{is mobile}}
 
+## License
+
+Licensed under the MIT license.
