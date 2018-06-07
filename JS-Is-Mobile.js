@@ -1,7 +1,7 @@
 /*
- * Google Tag Manager - Macro/Variable 
+ * Google Tag Manager - Variable 
  * 
- * Name - is mobile
+ * Name - JS Is Mobile
  * Type - Custom Javascript
  *
  */ 

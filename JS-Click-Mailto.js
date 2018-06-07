@@ -1,12 +1,12 @@
 /*
- * Google Tag Manager - Macro/Variable 
+ * Google Tag Manager - Variable 
  * 
- * Name - element mailto
+ * Name - JS Click Mailto
  * Type - Custom Javascript
  *
  */ 
 function() {
-	var b = {{element url}};
+	var b = {{Click URL}};
 	var a = b.replace("mailto:","");
 	if (a == b) return false;
 	var result = a.replace(/\?.*/g, "");
